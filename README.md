@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason@PiiDish
-- 👀 I’m interested in ... Robotics, Machine learning and IoT
+- 👀 I’m interested in ... Robotics, Machine learning, Drones and IoT
 - 🌱 I’m currently learning ... Bachelor Degree in Computer Science Majoring in Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
