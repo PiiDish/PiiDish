@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason
-- 👀 I’m interested in ... Robotics, Machine learning and drones
+- 👀 I’m interested in ... Robotics, Machine learning - Computer Vision
 <!--- 🌱 I’m currently learning ... Bachelor Degree Honours in Computer Science Majoring in Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
